@@ -58,13 +58,13 @@
             </div>
             <div class="content blog-layout--style-1">
                <article class="post has-post-thumbnail">
-                  <div class="post__thumbnail"><a href="blog-post.html"><img src="assets/img/samples/vex.jpg" alt=""></a></div>
+                  <div class="post__thumbnail"><a href="blog-post.php"><img src="assets/img/samples/vex.jpg" alt=""></a></div>
                   <div class="post__body">
                      <div class="post__header">
                         <ul class="post__cats list-unstyled">
                            <li class="post__cats-item color-warning"><a href="#">Gaming</a></li>
                         </ul>
-                        <h2 class="post__title h4"><a href="blog-post.html">Liên Minh Huyền Thoại ra tướng mới - Vex</a></h2>
+                        <h2 class="post__title h4"><a href="blog-post.php">Liên Minh Huyền Thoại ra tướng mới - Vex</a></h2>
                         <ul class="post__meta list-unstyled">
                            <li class="post__meta-item post__meta-item--date"><a href="#">31/8/2021</a></li>
                         </ul>
@@ -88,7 +88,7 @@
                         <ul class="post__cats list-unstyled">
                            <li class="post__cats-item color-danger"><a href="#">Videos</a></li>
                         </ul>
-                        <h2 class="post__title h4"><a href="blog-post.html">"Khẩu vị độc đáo"</a></h2>
+                        <h2 class="post__title h4"><a href="blog-post.php">"Khẩu vị độc đáo"</a></h2>
                         <ul class="post__meta list-unstyled">
                            <li class="post__meta-item post__meta-item--date"><a href="#">2/9/2021</a></li>
                         </ul>
@@ -97,13 +97,13 @@
                   </div>
                </article>
                <article class="post has-post-thumbnail">
-                  <div class="post__thumbnail"><a href="blog-post.html"><img src="assets/img/samples/vex.jpg" alt=""></a></div>
+                  <div class="post__thumbnail"><a href="blog-post.php"><img src="assets/img/samples/vex.jpg" alt=""></a></div>
                   <div class="post__body">
                      <div class="post__header">
                         <ul class="post__cats list-unstyled">
                            <li class="post__cats-item color-warning"><a href="#">Gaming</a></li>
                         </ul>
-                        <h2 class="post__title h4"><a href="blog-post.html">Liên Minh Huyền Thoại ra tướng mới - Vex</a></h2>
+                        <h2 class="post__title h4"><a href="blog-post.php">Liên Minh Huyền Thoại ra tướng mới - Vex</a></h2>
                         <ul class="post__meta list-unstyled">
                            <li class="post__meta-item post__meta-item--date"><a href="#">31/8/2021</a></li>
                         </ul>
@@ -112,13 +112,13 @@
                   </div>
                </article>
                <article class="post has-post-thumbnail">
-                  <div class="post__thumbnail"><a href="blog-post.html"><img src="assets/img/samples/vex.jpg" alt=""></a></div>
+                  <div class="post__thumbnail"><a href="blog-post.php"><img src="assets/img/samples/vex.jpg" alt=""></a></div>
                   <div class="post__body">
                      <div class="post__header">
                         <ul class="post__cats list-unstyled">
                            <li class="post__cats-item color-warning"><a href="#">Gaming</a></li>
                         </ul>
-                        <h2 class="post__title h4"><a href="blog-post.html">Liên Minh Huyền Thoại ra tướng mới - Vex</a></h2>
+                        <h2 class="post__title h4"><a href="blog-post.php">Liên Minh Huyền Thoại ra tướng mới - Vex</a></h2>
                         <ul class="post__meta list-unstyled">
                            <li class="post__meta-item post__meta-item--date"><a href="#">31/8/2021</a></li>
                         </ul>
@@ -127,13 +127,13 @@
                   </div>
                </article>
                <article class="post has-post-thumbnail">
-                  <div class="post__thumbnail"><a href="blog-post.html"><img src="assets/img/samples/vex.jpg" alt=""></a></div>
+                  <div class="post__thumbnail"><a href="blog-post.php"><img src="assets/img/samples/vex.jpg" alt=""></a></div>
                   <div class="post__body">
                      <div class="post__header">
                         <ul class="post__cats list-unstyled">
                            <li class="post__cats-item color-warning"><a href="#">Gaming</a></li>
                         </ul>
-                        <h2 class="post__title h4"><a href="blog-post.html">Liên Minh Huyền Thoại ra tướng mới - Vex</a></h2>
+                        <h2 class="post__title h4"><a href="blog-post.php">Liên Minh Huyền Thoại ra tướng mới - Vex</a></h2>
                         <ul class="post__meta list-unstyled">
                            <li class="post__meta-item post__meta-item--date"><a href="#">31/8/2021</a></li>
                         </ul>
@@ -143,13 +143,13 @@
                </article>
                
                <article class="post has-post-thumbnail">
-                  <div class="post__thumbnail"><a href="blog-post.html"><img src="assets/img/samples/vex.jpg" alt=""></a></div>
+                  <div class="post__thumbnail"><a href="blog-post.php"><img src="assets/img/samples/vex.jpg" alt=""></a></div>
                   <div class="post__body">
                      <div class="post__header">
                         <ul class="post__cats list-unstyled">
                            <li class="post__cats-item color-warning"><a href="#">Gaming</a></li>
                         </ul>
-                        <h2 class="post__title h4"><a href="blog-post.html">Liên Minh Huyền Thoại ra tướng mới - Vex</a></h2>
+                        <h2 class="post__title h4"><a href="blog-post.php">Liên Minh Huyền Thoại ra tướng mới - Vex</a></h2>
                         <ul class="post__meta list-unstyled">
                            <li class="post__meta-item post__meta-item--date"><a href="#">31/8/2021</a></li>
                         </ul>
