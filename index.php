@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="zxx">
    <head>
-      <title>Necromancers - eSports Team &amp; Gaming HTML Template</title>
+      <title>VKU Esport</title>
       <meta charset="utf-8">
       <meta http-equiv="X-UA-Compatible" content="IE=edge">
       <meta name="description" content="eSports Team &amp; Gaming HTML Template">
@@ -42,7 +42,7 @@
             <nav class="main-nav">
                <ul class="main-nav__list">
                   <li class="">
-                     <a href="blog.php">Mới nhất</a>
+                     <a href="blog-post.php">Mới nhất</a>
                     
                   </li>
                   <li class="">
